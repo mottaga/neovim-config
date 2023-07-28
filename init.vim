@@ -5,6 +5,9 @@ source $HOME/.config/nvim/options.vim
 syntax on
 colorscheme jellybeans
 
+" Coc settings
+source $HOME/.config/nvim/coc_settings.vim
+
 " Plugins
 source $HOME/.config/nvim/load_plugins.vim           
 
